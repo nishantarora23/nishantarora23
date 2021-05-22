@@ -22,7 +22,7 @@
 
 ### Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishantarora94&show_icons=true&locale=en" alt="nishantarora94" /></p>
-
+<br/>
 ### Let's connect :rocket: :
 <a href="https://www.linkedin.com/in/nishant-arora94/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
