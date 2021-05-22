@@ -21,10 +21,10 @@
 <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RHEL" width="40" height="40"/> </a><br/>
 
 ### Statistics:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishantarora94&show_icons=true&locale=en" alt="nishantarora94" /></p>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishantarora94&show_icons=true&locale=en" alt="nishantarora94" /></p><br/>
+
 ### Let's connect :coffee: :
-<a href="https://www.linkedin.com/in/nishant-arora94/">
+<br/><a href="https://www.linkedin.com/in/nishant-arora94/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
 </a>
 <a href="mailto:mailtoaroranish23@gmail.com">
