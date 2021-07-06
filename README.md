@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=nishantarora94&label=Profile%20views&color=0e75b6&style=flat" alt="nishantarora94" />
 
 ### Know about me: :rocket:
-- 🌱 I’m currently preparing for ***Microsoft Azure AZ-104 certification***
+- 🌱 I’m currently preparing for ***AZ-104 Microsoft Azure Administrator certification***
 - 💬 Ask me about ***Python, Java & CI/CD***
 - 📫 How to reach me **aroranish23@gmail.com**
 - 👨‍💻 All about me is available in [My Portfolio](https://nishantarora94.github.io/)
