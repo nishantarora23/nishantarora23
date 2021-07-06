@@ -5,7 +5,7 @@
 
 ### Know about me: :rocket:
 - 🌱 I’m currently preparing for ***AZ-104 Microsoft Azure Administrator certification***
-- 💬 Ask me about ***Python, Java & CI/CD***
+- 💬 Ask me about ***Python, Java, MS Azure & CI/CD***
 - 📫 How to reach me **aroranish23@gmail.com**
 - 👨‍💻 All about me is available in [My Portfolio](https://nishantarora94.github.io/)
 
