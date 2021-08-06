@@ -4,14 +4,13 @@
 <img src="https://komarev.com/ghpvc/?username=nishantarora94&label=Profile%20views&color=0e75b6&style=flat" alt="nishantarora94" />
 
 ### Know about me: :rocket:
-- 🌱 I’m currently preparing for ***AZ-104 Microsoft Azure Administrator certification***
+- 🌱 I’m certified ***AZ-900 Microsoft Azure Fundamentals & AZ-104 Microsoft Azure Administrator***
 - 💬 Ask me about ***Python, Java, MS Azure & CI/CD***
 - 📫 How to reach me **aroranish23@gmail.com**
 - 👨‍💻 All about me is available in [My Portfolio](https://nishantarora94.github.io/)
 
-<!--
-**nishantarora94/nishantarora94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm currently preparing to get AWS cloud certification.
+
 
 ### Languages and Tools:
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://maven.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="80" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a><a href="https://bitbucket.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/> 
