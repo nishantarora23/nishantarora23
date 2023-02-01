@@ -5,7 +5,7 @@
 
 ### Know about me: :rocket:
 - 🌱 I’m certified ***AZ-900 Microsoft Azure Fundamentals, AZ-104 Microsoft Azure Administrator and AWS CLF-C01***
-- 💬 Ask me about ***Python, Java, MS Azure & CI/CD***
+- 💬 Ask me about ***Python, Java, DevOps, MS Azure, AWS, & IaaS***
 - 📫 How to reach me **aroranish23@gmail.com**
 - 👨‍💻 All about me is available in [My Portfolio](https://nishantarora94.github.io/)
 
