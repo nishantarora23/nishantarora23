@@ -32,5 +32,5 @@
 </a><br/>
 
 ### Statistics:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishantarora94&show_icons=true&locale=en" alt="nishantarora94" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishantarora23&show_icons=true&locale=en" alt="nishantarora23" /></p><br/>
 
