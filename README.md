@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-## Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="30px">, I'm [Nishant Arora](https://www.linkedin.com/in/nishant-arora94/)
+## Hi! I am [Nishant Arora](https://www.linkedin.com/in/nishant-arora94/)
 <img src="https://komarev.com/ghpvc/?username=nishantarora94&label=Profile%20views&color=0e75b6&style=flat" alt="nishantarora94" />
 
 ### Know about me: :rocket:
