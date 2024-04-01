@@ -4,18 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=nishantarora94&label=Profile%20views&color=0e75b6&style=flat" alt="nishantarora94" />
 
 ### Know about me: :rocket:
-- 🌱 I’m certified ***AZ-900 Microsoft Azure Fundamentals, AZ-104 Microsoft Azure Administrator and AWS CLF-C01***
-- 💬 Ask me about ***Python, Java, DevOps, MS Azure, AWS, & IaaS***
+- 🌱 I’m certified ***AWS Certified Cloud Practitioner, AWS Certified Solutions Architect Associate, AZ-900 Microsoft Azure Fundamentals, AZ-104 Microsoft Azure Administrator, Terraform Associate***
+- 💬 Ask me about ***Python, Java, Linux, DevOps, AWS, MS Azure & IaaS***
 - 📫 How to reach me **aroranish23@gmail.com**
-- 👨‍💻 All about me is available in [My Portfolio](https://nishantarora23.github.io/)
-
-
-### Languages and Tools:
-<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://maven.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="80" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a><a href="https://bitbucket.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/> 
-<a href="https://www.sonarqube.org/" target="_blank"> <img src="https://api.iconify.design/logos-sonarqube.svg" alt="sonarqube" width="80" height="50"/></a><a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://www.deployhub.com/" target="_blank"> <img src="https://landscape.cncf.io/logos/deploy-hub.svg" alt="deployhub" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a><a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a><a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> <a href="https://www.nagios.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="nagios" width="40" height="40"/> <a href="https://httpd.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache_httpd" width="80" height="40"/></a<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="50" height="40"/></a><a href="https://www.redhat.com/en/technologies/jboss-middleware/application-platform" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" alt="jboss" width="50" height="40"/>
-</a><a href="https://azure.microsoft.com/en-us/overview/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="40"/></a>
-<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RHEL" width="40" height="40"/> </a><br/>
 
 ### Let's connect :coffee: :
 <a href="https://www.linkedin.com/in/nishant-arora94/">
@@ -30,7 +21,3 @@
 <a href="https://www.facebook.com/nish001">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 </a><br/>
-
-### Statistics:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishantarora23&show_icons=true&locale=en" alt="nishantarora23" /></p><br/>
-
